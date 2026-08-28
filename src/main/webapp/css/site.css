@@ -1,0 +1,78 @@
+body{
+    margin:0;
+    font-family:Segoe UI,Arial;
+    background:#f4f6f9;
+}
+
+.sidebar{
+    width:230px;
+    height:100vh;
+    position:fixed;
+    background:#0b1c2d;
+    color:white;
+}
+
+.sidebar h3{
+    margin:0;
+    padding:18px;
+    text-align:center;
+    background:#020617;
+}
+
+.sidebar a{
+    display:block;
+    padding:13px 18px;
+    color:#e5e7eb;
+    text-decoration:none;
+    font-size:15px;
+}
+
+.sidebar a:hover{
+    background:#1e293b;
+}
+
+.main{
+    margin-left:230px;
+    padding:25px;
+}
+
+.card{
+    background:white;
+    padding:18px;
+    border-radius:10px;
+    margin-bottom:18px;
+    box-shadow:0 4px 10px rgba(0,0,0,.08);
+}
+
+.btn{
+    background:#2563eb;
+    color:white;
+    padding:7px 12px;
+    border-radius:6px;
+    border:none;
+    text-decoration:none;
+    cursor:pointer;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th,td{
+    padding:10px;
+    border-bottom:1px solid #ddd;
+}
+
+th{
+    background:#2563eb;
+    color:white;
+}
+
+input,select,textarea{
+    width:100%;
+    padding:8px;
+    margin-bottom:12px;
+    border:1px solid #ccc;
+    border-radius:5px;
+}

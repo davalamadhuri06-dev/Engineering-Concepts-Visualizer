@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/animations/circuits_animation.jsp=UTF-8
+encoding//src/main/webapp/animations/signals_animation.jsp=UTF-8
+encoding//src/main/webapp/charts/signals_chart.jsp=UTF-8
+encoding//src/main/webapp/faculty/add_concept.jsp=UTF-8
+encoding//src/main/webapp/faculty/save_concept.jsp=UTF-8
+encoding//src/main/webapp/student/concepts.jsp=UTF-8
+encoding//src/main/webapp/student/dashboard.jsp=UTF-8
+encoding//src/main/webapp/student/signals_chart.jsp=UTF-8
+encoding//src/main/webapp/student/signals_visuals.jsp=UTF-8
+encoding/<project>=UTF-8
